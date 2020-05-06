@@ -1,0 +1,400 @@
+-------------
+Epoch 1/100
+epoch 0 || Loss:0.0439 
+timer:  0.0377 sec.
+-------------
+Epoch 2/100
+epoch 1 || Loss:0.0236 
+timer:  0.0661 sec.
+-------------
+Epoch 3/100
+epoch 2 || Loss:0.0168 
+timer:  0.0480 sec.
+-------------
+Epoch 4/100
+epoch 3 || Loss:0.0102 
+timer:  0.0440 sec.
+-------------
+Epoch 5/100
+epoch 4 || Loss:0.0066 
+timer:  0.0557 sec.
+-------------
+Epoch 6/100
+epoch 5 || Loss:0.0032 
+timer:  0.0336 sec.
+-------------
+Epoch 7/100
+epoch 6 || Loss:0.0019 
+timer:  0.0370 sec.
+-------------
+Epoch 8/100
+epoch 7 || Loss:0.0009 
+timer:  0.0365 sec.
+-------------
+Epoch 9/100
+epoch 8 || Loss:0.0009 
+timer:  0.0434 sec.
+-------------
+Epoch 10/100
+epoch 9 || Loss:0.0007 
+timer:  0.0463 sec.
+-------------
+Epoch 11/100
+epoch 10 || Loss:0.0007 
+timer:  0.0343 sec.
+-------------
+Epoch 12/100
+epoch 11 || Loss:0.0006 
+timer:  0.0425 sec.
+-------------
+Epoch 13/100
+epoch 12 || Loss:0.0005 
+timer:  0.0431 sec.
+-------------
+Epoch 14/100
+epoch 13 || Loss:0.0004 
+timer:  0.0425 sec.
+-------------
+Epoch 15/100
+epoch 14 || Loss:0.0003 
+timer:  0.0410 sec.
+-------------
+Epoch 16/100
+epoch 15 || Loss:0.0003 
+timer:  0.0389 sec.
+-------------
+Epoch 17/100
+epoch 16 || Loss:0.0003 
+timer:  0.0502 sec.
+-------------
+Epoch 18/100
+epoch 17 || Loss:0.0002 
+timer:  0.0610 sec.
+-------------
+Epoch 19/100
+epoch 18 || Loss:0.0002 
+timer:  0.0439 sec.
+-------------
+Epoch 20/100
+epoch 19 || Loss:0.0002 
+timer:  0.0457 sec.
+-------------
+Epoch 21/100
+epoch 20 || Loss:0.0002 
+timer:  0.0435 sec.
+-------------
+Epoch 22/100
+epoch 21 || Loss:0.0001 
+timer:  0.0427 sec.
+-------------
+Epoch 23/100
+epoch 22 || Loss:0.0002 
+timer:  0.0341 sec.
+-------------
+Epoch 24/100
+epoch 23 || Loss:0.0001 
+timer:  0.0363 sec.
+-------------
+Epoch 25/100
+epoch 24 || Loss:0.0002 
+timer:  0.0359 sec.
+-------------
+Epoch 26/100
+epoch 25 || Loss:0.0001 
+timer:  0.0388 sec.
+-------------
+Epoch 27/100
+epoch 26 || Loss:0.0001 
+timer:  0.0436 sec.
+-------------
+Epoch 28/100
+epoch 27 || Loss:0.0001 
+timer:  0.0456 sec.
+-------------
+Epoch 29/100
+epoch 28 || Loss:0.0001 
+timer:  0.0351 sec.
+-------------
+Epoch 30/100
+epoch 29 || Loss:0.0001 
+timer:  0.0436 sec.
+-------------
+Epoch 31/100
+epoch 30 || Loss:0.0001 
+timer:  0.0439 sec.
+-------------
+Epoch 32/100
+epoch 31 || Loss:0.0002 
+timer:  0.0446 sec.
+-------------
+Epoch 33/100
+epoch 32 || Loss:0.0001 
+timer:  0.0451 sec.
+-------------
+Epoch 34/100
+epoch 33 || Loss:0.0001 
+timer:  0.0442 sec.
+-------------
+Epoch 35/100
+epoch 34 || Loss:0.0001 
+timer:  0.0679 sec.
+-------------
+Epoch 36/100
+epoch 35 || Loss:0.0001 
+timer:  0.0385 sec.
+-------------
+Epoch 37/100
+epoch 36 || Loss:0.0001 
+timer:  0.0427 sec.
+-------------
+Epoch 38/100
+epoch 37 || Loss:0.0001 
+timer:  0.0546 sec.
+-------------
+Epoch 39/100
+epoch 38 || Loss:0.0001 
+timer:  0.0473 sec.
+-------------
+Epoch 40/100
+epoch 39 || Loss:0.0001 
+timer:  0.0468 sec.
+-------------
+Epoch 41/100
+epoch 40 || Loss:0.0001 
+timer:  0.0420 sec.
+-------------
+Epoch 42/100
+epoch 41 || Loss:0.0001 
+timer:  0.0412 sec.
+-------------
+Epoch 43/100
+epoch 42 || Loss:0.0001 
+timer:  0.0381 sec.
+-------------
+Epoch 44/100
+epoch 43 || Loss:0.0001 
+timer:  0.0473 sec.
+-------------
+Epoch 45/100
+epoch 44 || Loss:0.0001 
+timer:  0.0418 sec.
+-------------
+Epoch 46/100
+epoch 45 || Loss:0.0001 
+timer:  0.0436 sec.
+-------------
+Epoch 47/100
+epoch 46 || Loss:0.0001 
+timer:  0.0412 sec.
+-------------
+Epoch 48/100
+epoch 47 || Loss:0.0001 
+timer:  0.0481 sec.
+-------------
+Epoch 49/100
+epoch 48 || Loss:0.0001 
+timer:  0.0471 sec.
+-------------
+Epoch 50/100
+epoch 49 || Loss:0.0001 
+timer:  0.0535 sec.
+-------------
+Epoch 51/100
+epoch 50 || Loss:0.0001 
+timer:  0.0420 sec.
+-------------
+Epoch 52/100
+epoch 51 || Loss:0.0001 
+timer:  0.0430 sec.
+-------------
+Epoch 53/100
+epoch 52 || Loss:0.0001 
+timer:  0.0527 sec.
+-------------
+Epoch 54/100
+epoch 53 || Loss:0.0001 
+timer:  0.0418 sec.
+-------------
+Epoch 55/100
+epoch 54 || Loss:0.0001 
+timer:  0.0432 sec.
+-------------
+Epoch 56/100
+epoch 55 || Loss:0.0001 
+timer:  0.0437 sec.
+-------------
+Epoch 57/100
+epoch 56 || Loss:0.0001 
+timer:  0.0408 sec.
+-------------
+Epoch 58/100
+epoch 57 || Loss:0.0001 
+timer:  0.0393 sec.
+-------------
+Epoch 59/100
+epoch 58 || Loss:0.0001 
+timer:  0.0434 sec.
+-------------
+Epoch 60/100
+epoch 59 || Loss:0.0001 
+timer:  0.0430 sec.
+-------------
+Epoch 61/100
+epoch 60 || Loss:0.0001 
+timer:  0.0427 sec.
+-------------
+Epoch 62/100
+epoch 61 || Loss:0.0001 
+timer:  0.0397 sec.
+-------------
+Epoch 63/100
+epoch 62 || Loss:0.0001 
+timer:  0.0417 sec.
+-------------
+Epoch 64/100
+epoch 63 || Loss:0.0001 
+timer:  0.0429 sec.
+-------------
+Epoch 65/100
+epoch 64 || Loss:0.0001 
+timer:  0.0471 sec.
+-------------
+Epoch 66/100
+epoch 65 || Loss:0.0001 
+timer:  0.0450 sec.
+-------------
+Epoch 67/100
+epoch 66 || Loss:0.0001 
+timer:  0.0399 sec.
+-------------
+Epoch 68/100
+epoch 67 || Loss:0.0001 
+timer:  0.0404 sec.
+-------------
+Epoch 69/100
+epoch 68 || Loss:0.0001 
+timer:  0.0485 sec.
+-------------
+Epoch 70/100
+epoch 69 || Loss:0.0001 
+timer:  0.0433 sec.
+-------------
+Epoch 71/100
+epoch 70 || Loss:0.0001 
+timer:  0.0401 sec.
+-------------
+Epoch 72/100
+epoch 71 || Loss:0.0001 
+timer:  0.0410 sec.
+-------------
+Epoch 73/100
+epoch 72 || Loss:0.0001 
+timer:  0.0515 sec.
+-------------
+Epoch 74/100
+epoch 73 || Loss:0.0001 
+timer:  0.0588 sec.
+-------------
+Epoch 75/100
+epoch 74 || Loss:0.0001 
+timer:  0.0435 sec.
+-------------
+Epoch 76/100
+epoch 75 || Loss:0.0001 
+timer:  0.0398 sec.
+-------------
+Epoch 77/100
+epoch 76 || Loss:0.0001 
+timer:  0.0438 sec.
+-------------
+Epoch 78/100
+epoch 77 || Loss:0.0001 
+timer:  0.0460 sec.
+-------------
+Epoch 79/100
+epoch 78 || Loss:0.0001 
+timer:  0.0388 sec.
+-------------
+Epoch 80/100
+epoch 79 || Loss:0.0001 
+timer:  0.0457 sec.
+-------------
+Epoch 81/100
+epoch 80 || Loss:0.0001 
+timer:  0.0415 sec.
+-------------
+Epoch 82/100
+epoch 81 || Loss:0.0001 
+timer:  0.0464 sec.
+-------------
+Epoch 83/100
+epoch 82 || Loss:0.0001 
+timer:  0.0399 sec.
+-------------
+Epoch 84/100
+epoch 83 || Loss:0.0001 
+timer:  0.0394 sec.
+-------------
+Epoch 85/100
+epoch 84 || Loss:0.0001 
+timer:  0.0392 sec.
+-------------
+Epoch 86/100
+epoch 85 || Loss:0.0001 
+timer:  0.0557 sec.
+-------------
+Epoch 87/100
+epoch 86 || Loss:0.0001 
+timer:  0.0449 sec.
+-------------
+Epoch 88/100
+epoch 87 || Loss:0.0001 
+timer:  0.0461 sec.
+-------------
+Epoch 89/100
+epoch 88 || Loss:0.0002 
+timer:  0.0444 sec.
+-------------
+Epoch 90/100
+epoch 89 || Loss:0.0001 
+timer:  0.0454 sec.
+-------------
+Epoch 91/100
+epoch 90 || Loss:0.0001 
+timer:  0.0421 sec.
+-------------
+Epoch 92/100
+epoch 91 || Loss:0.0001 
+timer:  0.0397 sec.
+-------------
+Epoch 93/100
+epoch 92 || Loss:0.0001 
+timer:  0.0409 sec.
+-------------
+Epoch 94/100
+epoch 93 || Loss:0.0001 
+timer:  0.0407 sec.
+-------------
+Epoch 95/100
+epoch 94 || Loss:0.0001 
+timer:  0.0427 sec.
+-------------
+Epoch 96/100
+epoch 95 || Loss:0.0001 
+timer:  0.0448 sec.
+-------------
+Epoch 97/100
+epoch 96 || Loss:0.0001 
+timer:  0.0390 sec.
+-------------
+Epoch 98/100
+epoch 97 || Loss:0.0001 
+timer:  0.0398 sec.
+-------------
+Epoch 99/100
+epoch 98 || Loss:0.0001 
+timer:  0.0446 sec.
+-------------
+Epoch 100/100
+epoch 99 || Loss:0.0001 
+timer:  0.0422 sec.
